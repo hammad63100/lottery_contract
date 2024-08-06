@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.0+commit.c7dfd78e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "manager",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Lottery.sol": "Lottery"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Lottery.sol": {
+			"keccak256": "0xcb80ca268cad7c215f1d0369ac21ba98f5e57672e18e4340718def3e3ca2df23",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://3b3350c8ad8810ef520ab40a9ec2f5997dcf0589efde8cba55a42fb5030ae8e9",
+				"dweb:/ipfs/QmXbgksdQaTXPH48Re7cR3XVhiURi7ApP4p3JzUb5wqzqh"
+			]
+		}
+	},
+	"version": 1
+}

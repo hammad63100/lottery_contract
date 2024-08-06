@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.0+commit.c7dfd78e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Lottery.sol": "Lotte"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Lottery.sol": {
+			"keccak256": "0xe1389d48b138d19c1d4433da72da14dfdbba328945e74718b86c4866fd40cc15",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://56094b2add992cfe7b5116489412924cdb7fe93932045257bf4a635341827ab5",
+				"dweb:/ipfs/QmQi7hGGFVadXSUCnan5FxS95c2zdUuRLHTdEtsQBSkJVZ"
+			]
+		}
+	},
+	"version": 1
+}
