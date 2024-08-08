@@ -7,24 +7,6 @@
 		"abi": [
 			{
 				"inputs": [],
-				"stateMutability": "nonpayable",
-				"type": "constructor"
-			},
-			{
-				"inputs": [],
-				"name": "getBalance",
-				"outputs": [
-					{
-						"internalType": "uint256",
-						"name": "",
-						"type": "uint256"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			},
-			{
-				"inputs": [],
 				"name": "manager",
 				"outputs": [
 					{
@@ -35,49 +17,6 @@
 				],
 				"stateMutability": "view",
 				"type": "function"
-			},
-			{
-				"inputs": [
-					{
-						"internalType": "uint256",
-						"name": "",
-						"type": "uint256"
-					}
-				],
-				"name": "participants",
-				"outputs": [
-					{
-						"internalType": "address payable",
-						"name": "",
-						"type": "address"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "random",
-				"outputs": [
-					{
-						"internalType": "uint256",
-						"name": "",
-						"type": "uint256"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "selectWinner",
-				"outputs": [],
-				"stateMutability": "nonpayable",
-				"type": "function"
-			},
-			{
-				"stateMutability": "payable",
-				"type": "receive"
 			}
 		],
 		"devdoc": {
@@ -108,11 +47,11 @@
 	},
 	"sources": {
 		"Lottery.sol": {
-			"keccak256": "0xda44e7db736bcd164b571de8f1970d4719b86d79712176775e05d3c2090df39e",
+			"keccak256": "0xcb80ca268cad7c215f1d0369ac21ba98f5e57672e18e4340718def3e3ca2df23",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://20142c2fee9ea8ccf4ea624575d996f022aecb0bf8497260ff500d5430c8f0a9",
-				"dweb:/ipfs/QmdwXqSMVaYJxqg7Yti2XXc813Jg6eDBr912e6T4X6Neyi"
+				"bzz-raw://3b3350c8ad8810ef520ab40a9ec2f5997dcf0589efde8cba55a42fb5030ae8e9",
+				"dweb:/ipfs/QmXbgksdQaTXPH48Re7cR3XVhiURi7ApP4p3JzUb5wqzqh"
 			]
 		}
 	},
